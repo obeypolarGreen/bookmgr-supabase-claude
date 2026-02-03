@@ -2,6 +2,10 @@
 
 A full-featured, production-ready bookmark manager with authentication, tagging, folders, and sharing capabilities.
 
+Project is at : https://bookmgr-supabase-claude.vercel.app/
+
+<img width="1229" height="562" alt="image" src="https://github.com/user-attachments/assets/cc1d7c1d-0c40-4150-a08d-f888278b7d5f" />
+
 ![Bookmark Manager](https://img.shields.io/badge/React-18.2-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-38bdf8)
 ![Vite](https://img.shields.io/badge/Vite-4.3-646cff)
